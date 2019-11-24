@@ -1,0 +1,128 @@
+/* -------------------------------------------------------------------
+Responsive Media Querries
+------------------------------------------------------------------- */
+
+
+
+
+/** custom classes min width **/
+@media screen and (min-width: 1300px) {
+
+}
+   
+@media screen and (min-width: 1650px) {
+
+}
+
+/** North america screens **/
+
+@media screen and (min-width: 1900px) {
+
+}
+
+
+
+/** custom classes max width **/
+@media screen and (max-width: 1919px) {
+
+}  
+
+@media screen and (max-width: 1650px) {
+
+} 
+
+@media (max-width: 1649px) {
+ 
+}
+
+/* free size tabs */
+@media (max-width: 1300px) {
+		
+}	
+	
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 1100px) {
+
+  
+}
+
+
+@media (max-width: 991px) {
+  	
+	
+
+} 
+
+@media (max-width: 850px) {
+
+
+
+
+} 
+
+@media (max-width: 767px) {
+
+
+	.tc-md{
+		text-align:center;
+	}
+	.tl-md{
+		text-align:left;
+	}
+	.tr-md{
+		text-align:right;
+	}  
+
+}
+
+@media (max-width: 620px) {
+ 
+}	
+	
+@media (max-width: 600px) {
+
+  
+  
+}	
+	
+@media (max-width: 480px) {
+
+}  
+
+@media (max-width: 400px) {
+
+   
+
+}  
+
+@media (max-width: 360px) {
+
+}	
+
+@media (max-width: 320px) {
+		
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
